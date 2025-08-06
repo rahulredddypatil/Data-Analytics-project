@@ -1,0 +1,4 @@
+SNO,Metric,T-Statistic,P-Value
+0,RespiratoryCases,-1.3499,0.1771
+1,CardiovascularCases,-0.8521,0.3942
+2,HospitalAdmissions,0.3001,0.7641
